@@ -9,7 +9,7 @@ const Button2 = ({ title }) => {
 <span class="relative w-full text-left text-white transition-colors duration-200 ease-in-out group-hover:text-gray-900">{title}</span>
 <span class="absolute inset-0 border-2 border-myorange"></span>
 
-      >  
+    
     </button>
   );
 };

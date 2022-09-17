@@ -109,7 +109,7 @@ const Connecting = () => {
           <p className='text-xl text-orange-500'>User Pain Points :</p>
           <ol className='text-lg list-decimal ml-8'>
             <li>Some people are asked to pay money for adopting pets</li>
-            <li>Communication Gap (Dur to email only feature).</li>
+            <li>Communication Gap (Due to email only feature).</li>
           </ol>
         </div>
         <div>

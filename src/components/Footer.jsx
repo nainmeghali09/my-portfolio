@@ -5,7 +5,20 @@ const Footer = () => {
         Copyright <span className='text-orange-500'>&copy;</span> 2022
       </div>
       <div>
-        Designed with ❤ by <span className='text-orange-500'>Meghali Nain</span>{" "}
+        Designed & Developed with ❤ by{" "}
+        <a
+          href="https://twitter.com/MeghaliNain"
+          className="text-myorange no-underline"
+        >
+          Meghali Nain
+        </a>{" "}
+        &{" "}
+        <a
+          href="https://twitter.com/vdi0914"
+          className="text-myorange no-underline"
+        >
+          Vidhi Tomar
+        </a>{" "}
       </div>
     </div>
   );

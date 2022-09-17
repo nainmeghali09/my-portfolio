@@ -26,7 +26,7 @@ const SupperClub = () => {
             <p className='text-xl text-orange-500'>The Challange : </p>
             <p className='text-lg'>
             This project was carried out based on a fictional brief, as a part of four week course on User Experience Design.
-The main challenge was to design a digital product foa a concept restaurant, through which users can customize, order food and pay.
+The main challenge was to design a digital product for a concept restaurant, through which users can customize, order food and pay.
             </p>
             </div>
             <div className='mb-4 '>
@@ -67,9 +67,9 @@ UI/UX Design, performing user research, persona development, low and mid fidelit
 
         <div className='my-4'>
           <p className='text-xl text-orange-500'>Target Audience :</p>
-          <p className='text-lg'>  1.  Early risers</p>
+          <p className='text-lg'>  1. Early risers</p>
           <p className='text-lg'>  2. College Students</p>
-          <p className='text-lg'>  3. Tech and office workers looking for something delicious and quick during their lunch break. </p>
+          <p className='text-lg text-left'>  3. Tech and office workers looking for something delicious and quick during their lunch break. </p>
         </div>
 </section>
 
@@ -80,28 +80,28 @@ UI/UX Design, performing user research, persona development, low and mid fidelit
           <p className='text-xl text-orange-500'>Demographics :</p>
 
           <p className='text-lg'>  1. Male-Female-Other</p>
-          <p className='text-lg'>  2.  Education - University Studies</p>
+          <p className='text-lg'>  2. Education - University Studies</p>
           <p className='text-lg'>  3. Single/ Married </p>
           <p className='text-lg'>  4. Age - 18-30 years old </p>
         </div>
 
         <div className='my-4'>
           <p className='text-xl text-orange-500'>User Needs :</p>
-          <p className='text-lg'>  1.   Find out if restaurant is open and if it delivers to their area</p>
-          <p className='text-lg'>  2. Customize orders according to preferences.</p>
+          <p className='text-lg'>  1. Find out if restaurant is open and if it delivers to their area</p>
+          <p className='text-lg text-left'>  2. Customize orders according to preferences.</p>
           <p className='text-lg'>  3. Get price with delivery free. </p>
           <p className='text-lg'>  4. Get a time estimate of delivery.</p>
-          <p className='text-lg'>   5. Save past orders and preferences for future orders.</p>
-          <p className='text-lg'>   6. Contact someone if there are issues/ questions. </p>
+          <p className='text-lg text-left'>   5. Save past orders and preferences for future orders.</p>
+          <p className='text-lg text-left'>   6. Contact someone if there are issues/ questions. </p>
         </div>
 
         <div className='my-4'>
           <p className='text-xl text-orange-500'>Client Needs :</p>
-          <p className='text-lg'>  1.   To set up a customizable online ordering system.</p>
-          <p className='text-lg'>  2. Receive payments in the website.</p>
-          <p className='text-lg'>  3. Provide a delivery service to customers.</p>
-          <p className='text-lg'>  4. Create appealing website for corporate audience.</p>
-          <p className='text-lg'>   5. Communication channel between customer and company.</p>
+          <p className='text-lg text-left'>  1. To set up a customizable online ordering system.</p>
+          <p className='text-lg text-left'>  2. Receive payments in the website.</p>
+          <p className='text-lg text-left'>  3. Provide a delivery service to customers.</p>
+          <p className='text-lg text-left'>  4. Create appealing website for corporate audience.</p>
+          <p className='text-lg text-left'>   5. Communication channel between customer and company.</p>
         
         </div>
         
@@ -180,7 +180,7 @@ UI/UX Design, performing user research, persona development, low and mid fidelit
       
         </div>
         <div className="text-center">
-        <ButtonProto title={"https://www.figma.com/proto/U5DK9m0pa69m3DFupskPGB/dog-app?page-id=0%3A1&node-id=1%3A2&viewport=243%2C48%2C0.09&scaling=scale-down&starting-point-node-id=1%3A2"} title2="View Prototype" />
+        <ButtonProto title={"https://www.figma.com/proto/IRIhl1v2FvqqYUHjpgoCdp/Restaurant-website?page-id=0%3A1&node-id=2%3A2&viewport=532%2C334%2C0.38&scaling=scale-down&starting-point-node-id=2%3A2"} title2="View Prototype" />
        </div>  
        
   

@@ -6,7 +6,7 @@ import WorkComp from "../components/WorkComp";
 import SectionNumber from "../components/SectionNumber";
 
 import "aos/dist/aos.css";
-import Typed from "react-typed";
+import Typewriter from "typewriter-effect";
 import React from "react";
 import { motion } from "framer-motion";
 import ButtonProto from "../components/ButtonProto";
@@ -35,12 +35,16 @@ const Home = () => {
          Hii,
           </div>
           <div className="text-center font-bold text-2xl md:text-left md:text-3xl lg:mt-4">
-            <Typed
-              strings={["My name is Meghali Nain"]}
-              typeSpeed={150}
-              backSpeed={100}
-              loop
-            ></Typed>
+                  
+<Typewriter
+    options={{
+      strings: " My name is Meghali Nain",
+      autoStart: true,
+      loop: true,
+      deleteSpeed: 70,
+      wrapperClassName: 'head_tags'
+    }}
+  />
           </div>
           <div className="mt-4 text-justify  lg:mt-8">
           I am a self taught UI/UX Designer. I currenlty work as a freelancer
